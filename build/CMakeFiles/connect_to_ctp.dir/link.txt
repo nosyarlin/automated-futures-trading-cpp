@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/connect_to_ctp.dir/main.cpp.o -o connect_to_ctp  -Wl,-rpath,/home/raysonlim/automated-futures-trading-cpp/ctp/traderapi /home/raysonlim/automated-futures-trading-cpp/ctp/traderapi/thosttraderapi_sm.so 
